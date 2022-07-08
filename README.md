@@ -43,5 +43,5 @@ Hai, Agung disini. 19 years old. Sedang dalam pendidikan S1 Informatika di STIMI
     <a href="https://facebook.com/prazzdevwa.me/6282144424079" target="blank"><img src="https://img.shields.io/badge/Agung_Prasetyo-30302f?style=flat&logo=whatsapp" /></a>
 </p>
 
-# Partner
+# 👥 Partner
 <img src="https://img.shields.io/badge/Andhika%20Pratama%20Putra-000?style=for-the-badge&logo=github&logoColor=fff" />
