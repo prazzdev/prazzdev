@@ -30,8 +30,8 @@ Hai, Agung disini. 19 years old. Sedang dalam pendidikan S1 Informatika di STIMI
 ### Let's connect!
 <p>
     <a href="https://prazzdev.rf.gd" target="blank"><img src="https://img.shields.io/badge/Website-PRAZZDEV-green" /></a>
-    <a href="https://linkedin.com/agungpraz31" target="blank"><img src="https://img.shields.io/badge/Agung_Prasetyo-blue?style=flat&logo=linkedin" /></a>
-    <a href="https://facebook.com/prazzdev" target="blank"><img src="https://img.shields.io/badge/Agung_Prasetyo-blue?style=flat&logo=facebook" /></a>
+    <a href="https://linkedin.com/agungpraz31" target="blank"><img src="https://img.shields.io/badge/Agung_Prasetyo-30302f?style=flat&logo=linkedin" /></a>
+    <a href="https://facebook.com/prazzdev" target="blank"><img src="https://img.shields.io/badge/Agung_Prasetyo-30302f?style=flat&logo=facebook" /></a>
     <a href="https://telegram.org/agungpraz31" target="blank"><img src="https://img.shields.io/badge/Telegram-@agungpraz31-blue?style=flat&logo=telegram" /></a>
     <a href="https://facebook.com/prazzdevwa.me/6282144424079" target="blank"><img src="https://img.shields.io/badge/Agung_Prasetyo-30302f?style=flat&logo=whatsapp" /></a>
 </p>
