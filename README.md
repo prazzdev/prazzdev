@@ -3,6 +3,7 @@ Welcome to my GitHub Account.
 
 ### GitHub Stats
 ![Profile views](https://gpvc.arturio.dev/prazzdev)
+<img src="https://github-readme-stats.vercel.app/api?username=prazzdev&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
 
 # About Me
 Assalamu'alaikum <br>
@@ -16,5 +17,3 @@ Hai, Agung disini. 19 years old. Sedang dalam pendidikan S1 Informatika di STIMI
     - 💬 Ask me about anything.</br>
     - 📫 How to reach me: <a href="mailto:prazzid31@gmail.com">Email me!</a>  </br>
 </details>
-
-<img src="https://github-readme-stats.vercel.app/api?username=prazzdev&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
