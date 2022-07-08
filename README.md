@@ -9,7 +9,7 @@ Welcome to my GitHub Account.
 Assalamu'alaikum <br>
 Hai, Agung disini. 19 years old. Sedang dalam pendidikan S1 Informatika di STIMIK Tunas Bangsa Banjarnegara. Aku berfokus pada Web Development, khususnya FrontEnd.
 
-### Stats :
+### 📊 Stats :
 <details>
  <summary><strong>What i am learning/working on these days</strong></summary>
     - 🔭 I’m currently working on PRAZZDEV </br>
@@ -18,7 +18,7 @@ Hai, Agung disini. 19 years old. Sedang dalam pendidikan S1 Informatika di STIMI
     - 📫 How to reach me: <a href="mailto:prazzid31@gmail.com">Email me!</a>  </br>
 </details>
 
-### Equipment Tools:
+### 🧰 Equipment Tools:
 <p>
     <img src="https://img.shields.io/badge/Windows-OS-blue?&logo=windows&logoColor=blue" />
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-IDE-blue?&logo=visual-studio-code&logoColor=blue" />
@@ -27,7 +27,7 @@ Hai, Agung disini. 19 years old. Sedang dalam pendidikan S1 Informatika di STIMI
 </p>
 
 
-### Let's connect!
+### 📱 Let's connect!
 <p>
     <a href="https://prazzdev.rf.gd" target="blank"><img src="https://img.shields.io/badge/Website-PRAZZDEV-green" /></a>
     <a href="https://linkedin.com/agungpraz31" target="blank"><img src="https://img.shields.io/badge/Agung_Prasetyo-30302f?style=flat&logo=linkedin" /></a>
