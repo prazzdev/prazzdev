@@ -44,4 +44,4 @@ Hai, Agung disini. 19 years old. Sedang dalam pendidikan S1 Informatika di STIMI
 </p>
 
 # Partner
-<img src="https://img.shields.io/badge/Andhika%20Pratama%20Putra-orange?style=for-the-badge&logo=github&logoColor=000000" />
+<img src="https://img.shields.io/badge/Andhika%20Pratama%20Putra-000?style=for-the-badge&logo=github&logoColor=fff" />
