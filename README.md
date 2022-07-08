@@ -20,7 +20,7 @@ Hai, Agung disini. 19 years old. Sedang dalam pendidikan S1 Informatika di STIMI
 </details>
 <details>
  <summary><strong>Lagi sibuk apa?</strong></summary>
-    - Bikin perpustakaan online berbasis web
+    - 🛠️ Bikin perpustakaan online berbasis web
 </details>
 
 ### 🧰 Equipment Tools:
