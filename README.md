@@ -21,9 +21,9 @@ Hai, Agung disini. 19 years old. Sedang dalam pendidikan S1 Informatika di STIMI
 
 ### Equipment Tools:
 <p>
-    <img src="https://img.shields.io/badge/OS-Windows-blue?&logo=windows" />
-    <img src="https://img.shields.io/badge/IDE-VSCode-blue?&logo=vscode" />
-    <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
+    <img src="https://img.shields.io/badge/OS-Windows-blue?&logo=windows&logoColor=blue" />
+    <img src="https://img.shields.io/badge/IDE-VSCode-blue?&logo=vscode&logoColor=blue" />
+    <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=sublime-text&logoColor=orange" />
     <img src="https://gpvc.arturio.dev/bagusfe" />
 </p>
 
