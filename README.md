@@ -5,7 +5,7 @@ Welcome to my GitHub Account.
 <img src="https://github-readme-stats.vercel.app/api?username=prazzdev&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prazzdev&layout=compact" height=180 />
 
-# About Me <img src="https://img.shields.io/badge/30302f?style=flat&logo=github" />
+# About Me <img src="https://img.shields.io/badge/-30302f?style=flat&logo=github" />
 Assalamu'alaikum <br>
 Hai, Agung disini. 19 years old. Sedang dalam pendidikan S1 Informatika di STIMIK Tunas Bangsa Banjarnegara. Aku berfokus pada Web Development, khususnya FrontEnd.
 
