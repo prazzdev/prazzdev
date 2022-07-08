@@ -10,7 +10,7 @@ Welcome to my GitHub Account.
 Assalamu'alaikum <br>
 Hai, Agung disini. 19 years old. Sedang dalam pendidikan S1 Informatika di STIMIK Tunas Bangsa Banjarnegara. Aku berfokus pada Web Development, khususnya FrontEnd.
 
-### Stats:
+### Stats :
 <details>
  <summary><strong>What i am learning/working on these days</strong></summary>
     - 🔭 I’m currently working on PRAZZDEV </br>
