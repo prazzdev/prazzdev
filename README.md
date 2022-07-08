@@ -2,8 +2,9 @@
 Welcome to my GitHub Account.
 
 ### GitHub Stats
-![Profile views](https://gpvc.arturio.dev/prazzdev)
-<img src="https://github-readme-stats.vercel.app/api?username=prazzdev&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
+![Profile views](https://gpvc.arturio.dev/prazzdev) <br>
+<img src="https://github-readme-stats.vercel.app/api?username=prazzdev&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" width="50%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bagusfe&layout=compact" height=180 width="50%" />
 
 # About Me
 Assalamu'alaikum <br>
