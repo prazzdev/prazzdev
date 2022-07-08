@@ -11,7 +11,7 @@ Hai, Agung disini. 19 years old. Sedang dalam pendidikan S1 Informatika di STIMI
 
 ### 📊 Stats :
 <details>
- <summary><strong>What i am learning/working on these days</strong></summary>
+ <summary><strong>What i am learning/working on these days?</strong></summary>
     - 🔭 I’m currently working for PRAZZDEV </br>
     - 🌱 I’m currently learning PHP, JavaScript and all about Web Development </br>
     - 🤨 Interesting with Android Development. Kotlin, like it. <br>
