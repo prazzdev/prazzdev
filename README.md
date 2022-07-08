@@ -2,7 +2,7 @@
 Welcome to my GitHub Account.
 
 ### GitHub Stats
-![a](https://gpvc.arturio.dev/prazzdev) <br>
+![Profile views](https://gpvc.arturio.dev/prazzdev) <br>
 <img src="https://github-readme-stats.vercel.app/api?username=prazzdev&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prazzdev&layout=compact" height=180 />
 
