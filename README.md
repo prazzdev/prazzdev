@@ -7,7 +7,7 @@ Welcome to my GitHub Account.
 
 # 👤 About Me
 <i>Assalamu'alaikum warahmatullahi wabarakatuh</i><br>
-Hai, Agung disini. 19 years old. Sedang dalam pendidikan S1 Informatika di STIMIK Tunas Bangsa Banjarnegara. Aku berfokus pada Web Development, khususnya FrontEnd.
+Hai, namaku Agung, asal dari Banjarnegara Jawa Tengah. Sedang dalam pendidikan S1 Informatika di STIMIK Tunas Bangsa Banjarnegara. Aku berfokus pada Web Development, khususnya FrontEnd.
 
 ### 📊 Stats :
 <details>
