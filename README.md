@@ -6,7 +6,7 @@ Welcome to my GitHub Account.
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prazzdev&layout=compact" height=180 />
 
 # 👤 About Me
-Assalamu'alaikum <br>
+<i>Assalamu'alaikum warahmatullahi wabarakatuh</i><br>
 Hai, Agung disini. 19 years old. Sedang dalam pendidikan S1 Informatika di STIMIK Tunas Bangsa Banjarnegara. Aku berfokus pada Web Development, khususnya FrontEnd.
 
 ### 📊 Stats :
