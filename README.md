@@ -24,10 +24,10 @@ Hai, namaku Agung, asal dari Banjarnegara Jawa Tengah. Sedang dalam pendidikan S
 </details>
 
 ### 🧰 Equipment Tools:
-    ## Device
+    ### Device
     <img src="https://img.shields.io/badge/Redmi%203S-Handphone-orange?&logo=xiaomi&logoColor=orange" />
     <img src="https://img.shields.io/badge/HP%20Probook%206570b-Laptop-silver?&logo=hp&logoColor=silver" />
-    ## OS
+    ### OS
     <img src="https://img.shields.io/badge/Linux-OS-blue?&logo=linux&logoColor=yellow" />
     <img src="https://img.shields.io/badge/Android-OS-blue?&logo=android&logoColor=yellow" />
  
