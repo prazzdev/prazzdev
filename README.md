@@ -12,8 +12,7 @@ Hai, namaku Agung, asal dari Banjarnegara Jawa Tengah. Sedang dalam pendidikan S
 ### 📊 Stats :
 <details>
  <summary><strong>What i am learning/working on these days?</strong></summary>
-   - 🔭 I’m currently working for PRAZZDEV </br>
-   - 🌱 I’m currently learning PHP, JavaScript and all about Web Development </br>
+   - 🌱 I’m currently learning JavaScript and all about Web Development. Focus on MERN Stack.</br>
    - 🤨 Interesting with Android Development. Like it. <br>
    - 💬 Ask me about anything.</br>
    - 📫 How to reach me: <a href="mailto:prazzid31@gmail.com">Email me!</a> </br>
