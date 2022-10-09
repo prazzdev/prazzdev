@@ -14,15 +14,14 @@ Hai, namaku Agung, asal dari Banjarnegara Jawa Tengah. Sedang dalam pendidikan S
  <summary><strong>What i am learning/working on these days?</strong></summary>
    - 🔭 I’m currently working for PRAZZDEV </br>
    - 🌱 I’m currently learning PHP, JavaScript and all about Web Development </br>
-   - 🤨 Interesting with Android Development. Kotlin, like it. <br>
+   - 🤨 Interesting with Android Development. Like it. <br>
    - 💬 Ask me about anything.</br>
    - 📫 How to reach me: <a href="mailto:prazzid31@gmail.com">Email me!</a> </br>
  </summary>
 </details>
 <details>
  <summary><strong>Lagi sibuk apa?</strong></summary>
-    - 🛠️ Bikin perpustakaan online berbasis web (<a href="http://perpustusa.rf.gd">Perpustusa</a>) [⚙️On Proccess]<br>
-    - 🛠️ Bikin website lirik sholawat (start akhir juli atau awal agustus)
+    - Not yet. secret :v
 </details>
 
 ### 🧰 Equipment Tools:
