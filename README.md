@@ -24,7 +24,6 @@ Hai, namaku Agung, asal dari Banjarnegara Jawa Tengah. Sedang dalam pendidikan S
 </details>
 
 ### 🧰 Equipment Tools:
-<p>
     ## Device
     <img src="https://img.shields.io/badge/Redmi%203S-Handphone-orange?&logo=xiaomi&logoColor=orange" />
     <img src="https://img.shields.io/badge/HP%20Probook%206570b-Laptop-silver?&logo=hp&logoColor=silver" />
@@ -34,8 +33,6 @@ Hai, namaku Agung, asal dari Banjarnegara Jawa Tengah. Sedang dalam pendidikan S
  
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-IDE-blue?&logo=visual-studio-code&logoColor=blue" />
     <img src="https://img.shields.io/badge/XAMPP-Web%20Server%20Tools-orange?&logo=xampp&logoColor=orange" />
-    
-</p>
 
 
 ### 📱 Let's connect!
