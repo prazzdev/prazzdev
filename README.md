@@ -25,7 +25,7 @@ Hai, namaku Agung, asal dari Banjarnegara Jawa Tengah. Sedang dalam pendidikan S
 
 ### 🧰 Equipment Tools:
 <p>
-    <img src="https://img.shields.io/badge/Windows-OS-blue?&logo=windows&logoColor=blue" />
+    <img src="https://img.shields.io/badge/Linux-OS-blue?&logo=linux&logoColor=blue" />
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-IDE-blue?&logo=visual-studio-code&logoColor=blue" />
     <img src="https://img.shields.io/badge/Sublime%20Text-Text%20Editor-orange?&logo=sublime-text&logoColor=orange" />
     <img src="https://img.shields.io/badge/XAMPP-Web%20Server%20Tools-orange?&logo=xampp&logoColor=orange" />
