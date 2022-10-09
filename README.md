@@ -28,7 +28,7 @@ Hai, namaku Agung, asal dari Banjarnegara Jawa Tengah. Sedang dalam pendidikan S
     <b>Device</b> </br>
     <img src="https://img.shields.io/badge/Redmi%203S-Handphone-orange?&logo=xiaomi&logoColor=orange" />
     <img src="https://img.shields.io/badge/HP%20Probook%206570b-Laptop-silver?&logo=hp&logoColor=silver" /> </br>
-    <b>OS</b>
+    <b>Operating System</b> </br>
     <img src="https://img.shields.io/badge/Linux-OS-blue?&logo=linux&logoColor=yellow" />
     <img src="https://img.shields.io/badge/Android-OS-blue?&logo=android&logoColor=yellow" /> </br>
     <b>Development Tools</b> </br>
