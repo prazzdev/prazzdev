@@ -38,7 +38,8 @@ Hai, namaku Agung, asal dari Banjarnegara Jawa Tengah. Sedang dalam pendidikan S
     <img src="https://img.shields.io/badge/Javascript-JS-yellow?&logo=javascript&logoColor=yellow" />
     <img src="https://img.shields.io/badge/PHP%20:%20Hepertext%20Preproccessor-PHP-blue?&logo=php&logoColor=blue" /> </br>
     <b>Framework</b> </br>
-    <img src="https://img.shields.io/badge/Tailwind-CSS-skyblue?&logo=tailwindcss&logoColor=skyblue" /> </br>
+    <img src="https://img.shields.io/badge/Tailwind-CSS-skyblue?&logo=tailwindcss&logoColor=skyblue" />
+    <img src="https://img.shields.io/badge/Bootstrap-CSS-purple?&logo=bootstrap&logoColor=purple" /></br>
     <b>Library</b> </br>
     <img src="https://img.shields.io/badge/React-JS-skyblue?&logo=react&logoColor=skyblue" />
   </p>
