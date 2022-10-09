@@ -33,7 +33,9 @@ Hai, namaku Agung, asal dari Banjarnegara Jawa Tengah. Sedang dalam pendidikan S
     <img src="https://img.shields.io/badge/Android-OS-green?&logo=android&logoColor=green" /> </br>
     <b>Development Tools</b> </br>
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-IDE-blue?&logo=visual-studio-code&logoColor=blue" />
-    <img src="https://img.shields.io/badge/XAMPP-Web%20Server%20Tools-orange?&logo=xampp&logoColor=orange" />
+    <img src="https://img.shields.io/badge/XAMPP-Web%20Server%20Tools-orange?&logo=xampp&logoColor=orange" /> </br>
+    <b>Language</b> </br>
+    <img src="https://img.shields.io/badge/Javascript-JS-yellow?&logojavascript&logoColor=yellow" />
   </p>
 
 ### 📱 Let's connect!
