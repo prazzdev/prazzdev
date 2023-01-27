@@ -7,15 +7,15 @@ Welcome to my GitHub Account.
 
 # 👤 About Me
 <i>Assalamu'alaikum warahmatullahi wabarakatuh</i><br>
-Hai, namaku Agung, asal dari Banjarnegara Jawa Tengah. Sedang dalam pendidikan S1 Informatika di STIMIK Tunas Bangsa Banjarnegara.
+Hai, namaku Agung, asal Banjarnegara Jawa Tengah. Sedang dalam pendidikan S1 Informatika di STIMIK Tunas Bangsa Banjarnegara.
 
 ### 📊 Stats :
 <details>
  <summary><strong>What i am learning/working on these days?</strong></summary>
    - 🌱 I’m currently learning JavaScript and all about Web Development. Focus on MERN Stack.</br>
-   - 🤨 Interesting with Android Development. Like it. <br>
+   - 🤨 Interesting to Android Development. Like it. <br>
    - 💬 Ask me about anything.</br>
-   - 📫 How to reach me: <a href="mailto:prazzid31@gmail.com">Email me!</a> </br>
+   - 📫 How to reach me: <a href="mailto:prazzid31@gmail.com">Text me on Email!</a> </br>
  </summary>
 </details>
 <details>
@@ -41,6 +41,9 @@ Hai, namaku Agung, asal dari Banjarnegara Jawa Tengah. Sedang dalam pendidikan S
     <b>Framework</b> </br>
     <img src="https://img.shields.io/badge/Tailwind-CSS-skyblue?&logo=tailwindcss&logoColor=skyblue" />
     <img src="https://img.shields.io/badge/Bootstrap-CSS-blue?&logo=bootstrap&logoColor=blue" /></br>
+    <img src="https://img.shields.io/badge/Node-JS-yellow?&logo=NodeJS&logoColor=green" /></br>
+    <img src="https://img.shields.io/badge/Express-JS-yellow?&logo=express&logoColor=green" /></br>
+    <img src="https://img.shields.io/badge/Laravel-PHP-blue?&logo=laravel&logoColor=red" /></br>
     <b>Library</b> </br>
     <img src="https://img.shields.io/badge/React-JS-skyblue?&logo=react&logoColor=skyblue" />
   </p>
