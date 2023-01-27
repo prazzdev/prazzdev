@@ -35,13 +35,14 @@ Hai, namaku Agung, asal Banjarnegara Jawa Tengah. Sedang dalam pendidikan S1 Inf
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-IDE-blue?&logo=visual-studio-code&logoColor=blue" />
     <img src="https://img.shields.io/badge/XAMPP-Web%20Server%20Tools-orange?&logo=xampp&logoColor=orange" /> </br>
     <b>Language</b> </br>
+    <img src="https://img.shields.io/badge/C--skyblue?&logo=cplusplus&logoColor=white" />
     <img src="https://img.shields.io/badge/C++--skyblue?&logo=cplusplus&logoColor=skyblue" />
     <img src="https://img.shields.io/badge/Javascript-JS-yellow?&logo=javascript&logoColor=yellow" />
     <img src="https://img.shields.io/badge/PHP%20:%20Hypertext%20Preproccessor-PHP-blue?&logo=php&logoColor=blue" /> </br>
     <b>Framework</b> </br>
     <img src="https://img.shields.io/badge/Tailwind-CSS-skyblue?&logo=tailwindcss&logoColor=skyblue" />
     <img src="https://img.shields.io/badge/Bootstrap-CSS-blue?&logo=bootstrap&logoColor=blue" /></br>
-    <img src="https://img.shields.io/badge/Node-JS-yellow?&logo=NodeJS&logoColor=green" /></br>
+    <img src="https://img.shields.io/badge/Node-JS-yellow?&logo=NodeJS&logoColor=green" />
     <img src="https://img.shields.io/badge/Express-JS-yellow?&logo=express&logoColor=green" /></br>
     <img src="https://img.shields.io/badge/Laravel-PHP-blue?&logo=laravel&logoColor=red" /></br>
     <b>Library</b> </br>
