@@ -2,8 +2,9 @@
 Welcome to my GitHub Account.
 
 ### GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=prazzdev&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prazzdev&layout=compact" height=180 />
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=prazzdev)](https://github.com/prazzdev/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prazzdev&layout=compact" height=180 /> <br>
+<img align="center" width="640px" src="https://github-readme-streak-stats.herokuapp.com/?user=prazzdev&theme=react&fire=FFF&ring=skyblue&currStreakLabel=skyblue&sideNums=skyblue&currStreakNum=skyblue&sideLabels=FFF&hide_border=true&background=2E3440" alt="prazzdev's streak stats"/>
 
 # 👤 About Me
 <i>Assalamu'alaikum warahmatullahi wabarakatuh</i><br>
