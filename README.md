@@ -1,7 +1,7 @@
 # 🚦 Welcome Coders
 Welcome to my GitHub Account.
 
-### GitHub Stats ![Profile views](https://gpvc.arturio.dev/prazzdev)
+### GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api?username=prazzdev&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prazzdev&layout=compact" height=180 />
 
@@ -12,39 +12,42 @@ Hai, namaku Agung, asal Banjarnegara Jawa Tengah. Sedang dalam pendidikan S1 Inf
 ### 📊 Stats :
 <details>
  <summary><strong>What i am learning/working on these days?</strong></summary>
-   - 🌱 I’m currently learning JavaScript and all about Web Development. Focus on MERN Stack.</br>
-   - 🤨 Interesting to Android Development. Like it. <br>
+   - 🌱 I’m currently learning JavaScript and all about Web Development.</br>
+   - 🤨 Interesting to Android Development. React Native. <br>
    - 💬 Ask me about anything.</br>
    - 📫 How to reach me: <a href="mailto:prazzid31@gmail.com">Text me on Email!</a> </br>
  </summary>
 </details>
-<details>
+<!-- <details>
  <summary><strong>Lagi sibuk apa?</strong></summary>
     - Not yet. secret :v
-</details>
+</details> -->
 
 ### 🧰 Equipment Tools:
   <p>
     <b>Device</b> </br>
     <img src="https://img.shields.io/badge/HP%20Probook%206570b-Laptop-silver?&logo=hp&logoColor=silver" />
-    <img src="https://img.shields.io/badge/Redmi%203S-Handphone-orange?&logo=xiaomi&logoColor=orange" /> </br>
+    <img src="https://img.shields.io/badge/Redmi%20Note%204X-Handphone-orange?&logo=xiaomi&logoColor=orange" /> </br>
     <b>Operating System</b> </br>
-    <img src="https://img.shields.io/badge/Linux-OS-yellow?&logo=linux&logoColor=yellow" />
+<!--     <img src="https://img.shields.io/badge/Linux-OS-yellow?&logo=linux&logoColor=yellow" /> -->
+    <img src="https://img.shields.io/badge/Windows-OS-green?&logo=windows&logoColor=blue" />
     <img src="https://img.shields.io/badge/Android-OS-green?&logo=android&logoColor=green" /> </br>
     <b>Development Tools</b> </br>
-    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-IDE-blue?&logo=visual-studio-code&logoColor=blue" />
-    <img src="https://img.shields.io/badge/XAMPP-Web%20Server%20Tools-orange?&logo=xampp&logoColor=orange" /> </br>
+    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-IDE-blue?&logo=visual-studio-code&logoColor=blue" /> <br>
+<!--     <img src="https://img.shields.io/badge/XAMPP-Web%20Server%20Tools-orange?&logo=xampp&logoColor=orange" /> </br> -->
     <b>Language</b> </br>
-    <img src="https://img.shields.io/badge/C--skyblue?&logo=cplusplus&logoColor=white" />
-    <img src="https://img.shields.io/badge/C++--skyblue?&logo=cplusplus&logoColor=skyblue" />
+<!--     <img src="https://img.shields.io/badge/C--skyblue?&logo=cplusplus&logoColor=white" />
+    <img src="https://img.shields.io/badge/C++--skyblue?&logo=cplusplus&logoColor=skyblue" /> -->
     <img src="https://img.shields.io/badge/Javascript-JS-yellow?&logo=javascript&logoColor=yellow" />
     <img src="https://img.shields.io/badge/PHP%20:%20Hypertext%20Preproccessor-PHP-blue?&logo=php&logoColor=blue" /> </br>
     <b>Framework</b> </br>
-    <img src="https://img.shields.io/badge/Tailwind-CSS-skyblue?&logo=tailwindcss&logoColor=skyblue" />
-    <img src="https://img.shields.io/badge/Bootstrap-CSS-blue?&logo=bootstrap&logoColor=blue" /></br>
+    <img src="https://img.shields.io/badge/Next-JS-gray?&logo=NextJS&logoColor=gray" />
     <img src="https://img.shields.io/badge/Node-JS-yellow?&logo=NodeJS&logoColor=green" />
-    <img src="https://img.shields.io/badge/Express-JS-yellow?&logo=express&logoColor=green" /></br>
-    <img src="https://img.shields.io/badge/Laravel-PHP-blue?&logo=laravel&logoColor=red" /></br>
+    <img src="https://img.shields.io/badge/Express-JS-yellow?&logo=express&logoColor=green" />
+    <img src="https://img.shields.io/badge/React-Native-gray?&logo=react&logoColor=blue" /></br>
+    <img src="https://img.shields.io/badge/Tailwind-CSS-skyblue?&logo=tailwindcss&logoColor=skyblue" /> <br>
+<!--     <img src="https://img.shields.io/badge/Bootstrap-CSS-blue?&logo=bootstrap&logoColor=blue" /></br> -->
+<!--     <img src="https://img.shields.io/badge/Laravel-PHP-blue?&logo=laravel&logoColor=red" /></br> -->
     <b>Library</b> </br>
     <img src="https://img.shields.io/badge/React-JS-skyblue?&logo=react&logoColor=skyblue" />
   </p>
