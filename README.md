@@ -30,35 +30,18 @@ Hai, namaku Agung, asal Banjarnegara Jawa Tengah. Sedang dalam pendidikan S1 Inf
     <img src="https://img.shields.io/badge/Redmi%20Note%204X-Handphone-orange?&logo=xiaomi&logoColor=orange" /> </br>
     <b>Operating System</b> </br>
 <!--     <img src="https://img.shields.io/badge/Linux-OS-yellow?&logo=linux&logoColor=yellow" /> -->
-    <img src="https://img.shields.io/badge/Windows-OS-green?&logo=windows&logoColor=blue" />
+    <img src="https://img.shields.io/badge/Windows-OS-blue?&logo=windows&logoColor=blue" />
     <img src="https://img.shields.io/badge/Android-OS-green?&logo=android&logoColor=green" /> </br>
     <b>Development Tools</b> </br>
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-IDE-blue?&logo=visual-studio-code&logoColor=blue" /> <br>
 <!--     <img src="https://img.shields.io/badge/XAMPP-Web%20Server%20Tools-orange?&logo=xampp&logoColor=orange" /> </br> -->
-    <b>Language</b> </br>
-<!--     <img src="https://img.shields.io/badge/C--skyblue?&logo=cplusplus&logoColor=white" />
-    <img src="https://img.shields.io/badge/C++--skyblue?&logo=cplusplus&logoColor=skyblue" /> -->
-    <img src="https://img.shields.io/badge/Javascript-JS-yellow?&logo=javascript&logoColor=yellow" />
-    <img src="https://img.shields.io/badge/PHP%20:%20Hypertext%20Preproccessor-PHP-blue?&logo=php&logoColor=blue" /> </br>
-    <b>Framework</b> </br>
-    <img src="https://img.shields.io/badge/Next-JS-gray?&logo=NextJS&logoColor=gray" />
-    <img src="https://img.shields.io/badge/Node-JS-yellow?&logo=NodeJS&logoColor=green" />
-    <img src="https://img.shields.io/badge/Express-JS-yellow?&logo=express&logoColor=green" />
-    <img src="https://img.shields.io/badge/React-Native-gray?&logo=react&logoColor=blue" /></br>
-    <img src="https://img.shields.io/badge/Tailwind-CSS-skyblue?&logo=tailwindcss&logoColor=skyblue" /> <br>
-<!--     <img src="https://img.shields.io/badge/Bootstrap-CSS-blue?&logo=bootstrap&logoColor=blue" /></br> -->
-<!--     <img src="https://img.shields.io/badge/Laravel-PHP-blue?&logo=laravel&logoColor=red" /></br> -->
-    <b>Library</b> </br>
-    <img src="https://img.shields.io/badge/React-JS-skyblue?&logo=react&logoColor=skyblue" />
   </p>
 
 ### 📱 Let's connect!
 <p>
-    <a href="https://prazzdev.rf.gd" target="blank"><img src="https://img.shields.io/badge/Website-PRAZZDEV-green" /></a>
+    <a href="https://agungpraz.vercel.app" target="blank"><img src="https://img.shields.io/badge/Website-AGUNGPRAZ-green" /></a>
     <a href="https://linkedin.com/agungpraz31" target="blank"><img src="https://img.shields.io/badge/Agung_Prasetyo-30302f?style=flat&logo=linkedin" /></a>
     <a href="https://facebook.com/prazzdev" target="blank"><img src="https://img.shields.io/badge/Agung_Prasetyo-30302f?style=flat&logo=facebook" /></a>
-    <a href="https://telegram.org/agungpraz31" target="blank"><img src="https://img.shields.io/badge/@agungpraz31-30302f?style=flat&logo=telegram" /></a>
-    <a href="https://facebook.com/prazzdevwa.me/6282144424079" target="blank"><img src="https://img.shields.io/badge/Agung_Prasetyo-30302f?style=flat&logo=whatsapp" /></a>
 </p>
 
 # 👥 Partner
