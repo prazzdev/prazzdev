@@ -28,7 +28,7 @@ Hai, namaku Agung, asal Banjarnegara Jawa Tengah. Sedang dalam pendidikan S1 Inf
   <p>
     <b>Device</b> </br>
     <img src="https://img.shields.io/badge/HP%20Probook%206570b-Laptop-silver?&logo=hp&logoColor=silver" />
-    <img src="https://img.shields.io/badge/Redmi%20Note%204X-Handphone-orange?&logo=xiaomi&logoColor=orange" /> </br>
+    <img src="https://img.shields.io/badge/Redmi%2010C-Handphone-orange?&logo=xiaomi&logoColor=orange" /> </br>
     <b>Operating System</b> </br>
 <!--     <img src="https://img.shields.io/badge/Linux-OS-yellow?&logo=linux&logoColor=yellow" /> -->
     <img src="https://img.shields.io/badge/Windows-OS-blue?&logo=windows&logoColor=blue" />
@@ -40,7 +40,7 @@ Hai, namaku Agung, asal Banjarnegara Jawa Tengah. Sedang dalam pendidikan S1 Inf
 
 ### 📱 Let's connect!
 <p>
-    <a href="https://agungpraz.vercel.app" target="blank"><img src="https://img.shields.io/badge/Website-AGUNGPRAZ-green" /></a>
+    <a href="https://prazzdev.site" target="blank"><img src="https://img.shields.io/badge/Website-AGUNGPRAZ-green" /></a>
     <a href="https://linkedin.com/agungpraz31" target="blank"><img src="https://img.shields.io/badge/Agung_Prasetyo-30302f?style=flat&logo=linkedin" /></a>
     <a href="https://facebook.com/prazzdev" target="blank"><img src="https://img.shields.io/badge/Agung_Prasetyo-30302f?style=flat&logo=facebook" /></a>
 </p>
