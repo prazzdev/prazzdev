@@ -1,5 +1,6 @@
+[![ReadMeSupportPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg)](https://github.com/Safouene1/support-palestine-banner)
+
 # 🚦 Welcome Coders
-Welcome to my GitHub Account.
 
 ### GitHub Stats
 <img align="center" width="640px" src="https://github-readme-streak-stats.herokuapp.com/?user=prazzdev&theme=react&fire=FFF&ring=skyblue&currStreakLabel=skyblue&sideNums=skyblue&currStreakNum=skyblue&sideLabels=FFF&hide_border=true&background=2E3440" alt="prazzdev's streak stats"/> <br><br>
@@ -8,7 +9,6 @@ Welcome to my GitHub Account.
 
 # 👤 About Me
 <i>Assalamu'alaikum warahmatullahi wabarakatuh</i><br>
-Hai, namaku Agung, asal Banjarnegara Jawa Tengah. Sedang dalam pendidikan S1 Informatika di STIMIK Tunas Bangsa Banjarnegara.
 
 ### 📊 Stats :
 <details>
