@@ -7,43 +7,41 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=prazzdev)](https://github.com/prazzdev/github-readme-stats)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prazzdev&layout=compact" height=195 />
 
-# 👤 About Me
-<i>Assalamu'alaikum warahmatullahi wabarakatuh</i><br>
-
-### 📊 Stats :
-<details>
- <summary><strong>What i am learning/working on these days?</strong></summary>
-   - 🌱 I’m currently learning JavaScript and all about Web Development.</br>
-   - 🤨 Interesting to Android Development. React Native. <br>
-   - 💬 Ask me about anything.</br>
-   - 📫 How to reach me: <a href="mailto:prazzid31@gmail.com">Text me on Email!</a> </br>
- </summary>
-</details>
-<!-- <details>
- <summary><strong>Lagi sibuk apa?</strong></summary>
-    - Not yet. secret :v
-</details> -->
-
-### 🧰 Equipment Tools:
-  <p>
-    <b>Device</b> </br>
-    <img src="https://img.shields.io/badge/HP%20Probook%206570b-Laptop-silver?&logo=hp&logoColor=silver" />
-    <img src="https://img.shields.io/badge/Redmi%2010C-Handphone-orange?&logo=xiaomi&logoColor=orange" /> </br>
-    <b>Operating System</b> </br>
-<!--     <img src="https://img.shields.io/badge/Linux-OS-yellow?&logo=linux&logoColor=yellow" /> -->
-    <img src="https://img.shields.io/badge/Windows-OS-blue?&logo=windows&logoColor=blue" />
-    <img src="https://img.shields.io/badge/Android-OS-green?&logo=android&logoColor=green" /> </br>
-    <b>Development Tools</b> </br>
-    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-IDE-blue?&logo=visual-studio-code&logoColor=blue" /> <br>
-<!--     <img src="https://img.shields.io/badge/XAMPP-Web%20Server%20Tools-orange?&logo=xampp&logoColor=orange" /> </br> -->
-  </p>
+### 🧰 Language & Tools:
+  <div align="left">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+   <img width="12" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+   <img width="12" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+   <img width="12" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+   <img width="12" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"  height="30" alt="nextjs logo"   />
+   <img width="12" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg"  height="30" alt="vite logo" />
+   <img width="12" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg"  height="30" alt="astro logo" />
+   <img width="12" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"  height="30" alt="nodejs logo" />
+   <img width="12" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" height="30" alt="express logo" />
+ </div>
 
 ### 📱 Let's connect!
-<p>
-    <a href="https://prazzdev.site" target="blank"><img src="https://img.shields.io/badge/Website-AGUNGPRAZ-green" /></a>
-    <a href="https://linkedin.com/agungpraz31" target="blank"><img src="https://img.shields.io/badge/Agung_Prasetyo-30302f?style=flat&logo=linkedin" /></a>
-    <a href="https://facebook.com/prazzdev" target="blank"><img src="https://img.shields.io/badge/Agung_Prasetyo-30302f?style=flat&logo=facebook" /></a>
-</p>
+<div align="left">
+  <a href="https://youtube.com/@programmer.ngapak" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  </a>
+  <a href="https://instagram.com/agungpraz31" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <a href="https://linkedin.com/in/agungpraz31" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
 
 # 👥 Partner
 <a href="https://github.com/dhikaweb7"><img src="https://img.shields.io/badge/Andhika%20Pratama%20Putra-000?style=for-the-badge&logo=github&logoColor=fff" /></a>
