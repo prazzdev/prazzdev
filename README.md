@@ -44,6 +44,3 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
-# 👥 Partner
-<a href="https://github.com/dhikaweb7"><img src="https://img.shields.io/badge/Andhika%20Pratama%20Putra-000?style=for-the-badge&logo=github&logoColor=fff" /></a>
